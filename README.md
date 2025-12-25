@@ -21,3 +21,6 @@ This project demonstrates GUI development, layout management, and event handling
 
 ## Project Purpose
 This project is created for learning GUI application development using Python Kivy.
+
+## Application Screenshot
+![Calculator Screenshot](screenshot.png)
