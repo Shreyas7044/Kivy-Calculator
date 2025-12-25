@@ -23,4 +23,4 @@ This project demonstrates GUI development, layout management, and event handling
 This project is created for learning GUI application development using Python Kivy.
 
 ## Application Screenshot
-![Calculator Screenshot](Kivy-Calculator/screenshot.png)
+![Calculator Screenshot](Kivy-Calculator/Kivy-Calculator/screenshot.png/screenshot.png)
