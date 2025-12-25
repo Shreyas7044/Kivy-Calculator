@@ -1,5 +1,3 @@
-# Kivy-Calculator
-Simple Calculator App built using Python Kivy
 # Kivy Calculator
 A simple calculator application built using Python and the Kivy framework.  
 This project demonstrates GUI development, layout management, and event handling in Kivy.
